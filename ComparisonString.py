@@ -26,3 +26,5 @@ print("aba" < "abc")
 
 print("vyz" < "abc")
 #False
+
+#In the strings computer looks only alphabetichal order! It different from the integers. Symbols already we learn at math lesson because of this it's easy topic.
