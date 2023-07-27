@@ -41,3 +41,5 @@ print(False or False)
 
 print(8 == 7 or 6 >= 6)
 #True
+
+#It takes much time for me :') 
