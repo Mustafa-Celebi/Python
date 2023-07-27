@@ -9,4 +9,10 @@ print(not True and True)
 
 #If compure see True at first word in 'or Operator' it doestn' look other words and it says always True like this:
 
-print(True and 'anythink')
+print(True or False)
+#True
+
+print(not False or 5 < 2)
+#True
+
+#This is esy-buzzy subject...
