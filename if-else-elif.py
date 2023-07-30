@@ -14,8 +14,6 @@ if x > a:
         if t == 25:
             print("Hello. You passed the second level")
 elif x == a:
-    print("You hit at 12. Conguratulations!")
-    print("")
-           
+    print("You hit at 12. Lucky!")
 else:
         print("Try again.")
