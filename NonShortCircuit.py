@@ -7,8 +7,4 @@ print(False | 5 > 3)
 (5 > 3) & print("hey")
 #This operators printing hey but take a mistake.
 
-<<<<<<< HEAD
 #I think this operators dont useful but everybody can't accept my opinion. 
-=======
-#I think this operators dont useful but everybody can't accept my opinion.
->>>>>>> main
