@@ -28,3 +28,20 @@ for _ in range(5):
     total *=5
 
 print(total)
+
+
+#While vs For
+
+s = "hey"
+for c in s:
+    print(c)
+
+
+
+n = len(s)
+index = 0
+while index < n:
+        print(s[index])
+        index += 1
+
+#Actually, we can write the for loop using the while loop, but we can not write the while loop using for, because there is no test system in for.

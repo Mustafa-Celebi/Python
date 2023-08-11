@@ -1,3 +1,5 @@
+#While uses to create loops. When it is right, it realises the cycle inside it, and this cycle does not stop until we get what we want.
+
 a = 10*2.7
 b = 7*9
 
