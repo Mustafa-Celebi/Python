@@ -43,8 +43,10 @@ print(notes[:2000])
 
 #[78, 85, 43, 65, 90]
 
+#[78, 85, 43, 65, 90]
 
 #We can find list's length to do this:
 
 print(len(notes))
 #5
+
