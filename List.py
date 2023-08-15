@@ -12,6 +12,7 @@ notes = [78, 80, 43, 65, 90]
 
 print(notes[0])
 
+#Lists are mutable data types. We can update their elements.
 #If i wanna change 2. student's note i should write:
 
 notes[1] = 85
@@ -27,15 +28,23 @@ print(notes[-1])
 
 
 print(notes[0])
-
+#78
 
 print(notes[0:3])
-#[78 85 43]
+#[78, 85, 43] 
 
 
 print(notes[:3])
-#[78 85 43]
+#[78, 85, 43] 
 
 
 print(notes[:2000])
 #[78, 85, 43, 65, 90]
+
+#[78, 85, 43, 65, 90]
+
+
+#We can find list's length to do this:
+
+print(len(notes))
+#5
