@@ -10,7 +10,7 @@ if operator == "x":
 if operator == "/":
     print(num1/num2)
 again = input("Anythink else?(y/n): ")
-if again == "y":
+while again == "y":
     print("Ok! Ask me.")
     num1 = int(input("Write first number: "))
     num2 = int(input("Write second number: "))
@@ -23,3 +23,5 @@ if again == "y":
         print(num1*num2)
     if operator == "/":
         print(num1/num2)
+    again = input("Anythink else?(y/n): ")
+print("Have a good day!")
