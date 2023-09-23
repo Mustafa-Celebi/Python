@@ -18,7 +18,7 @@ print(type(x))
 #? Second Exmaple
 m = 999
 print(m)
-#! abcd
+#! 999
 
 print(type(m))
 #* integer
