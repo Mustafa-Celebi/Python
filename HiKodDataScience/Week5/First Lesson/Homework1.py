@@ -11,10 +11,7 @@ name = input("Write student name: ")
 lesson = input("Write lesson name: ")
 
 if name in students:
-    try:
-        note = students[name][lesson]
-        print(f"{name}'s note for {lesson} is {note}.")
-    except KeyError:
-        print(f"{name}'s note not found in {lesson} lesson.")
+    note = students[name][lesson]
+    print(f"{name}'s note for {lesson} is {note}.")
 else:
-    print(f"{name} isn't found")
+    print(f"{name} note isn't found")
