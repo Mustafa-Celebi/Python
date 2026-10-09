@@ -7,8 +7,8 @@ file_name = "C:\\Users\\lenovo\\Desktop\\Python\\Practice\\Diary\\Diary_Notes\\"
 pwd_in = input("PLEASE ENTER YOUR PASSWORD: ")
 
 def menu():
-        print("MENU /n")
-        print("PLEASE SELECT AN OPERATION.")
+        print("\nMENU")
+        print("PLEASE SELECT AN OPERATION. \n")
         print("[A] OPEN TODAY'S TEXTBOOK")
         print("[B] VIEW OLD TEXTBOOKS")
         print("[C] EDIT PASSWORD")
